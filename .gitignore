@@ -1,0 +1,9 @@
+
+/.metadata
+/jaxws-sample-client/bin
+/jaxws-sample-client/.settings
+/jaxws-sample/.settings
+/jaxws-sample/target
+/Servers
+/RemoteSystemsTempFiles
+/glassfish
