@@ -1,4 +1,5 @@
-JAX-WS�̃T���v���ł��B
+﻿JAX-WSのサンプルです。
 
-* jaxws-sample:�T�[�o�[
-* jaxws-sample-client:�N���C�A���g
+* jaxws-sample:サーバー
+* jaxws-sample-client:Javaからアクセスするサンプル
+* HelloServiceClientApplication: C#からアクセスするサンプル
